@@ -9,3 +9,8 @@ Contents
 - Problem folders organized by topic or assignment number
 - Individual README files with usage notes and complexity/comments
 
+Usage
+- Install C compiler to run this code
+- Refer to each problem folder for input format, examples, and running instructions
+- Tests or sample inputs (if any) are included in the respective folders
+
